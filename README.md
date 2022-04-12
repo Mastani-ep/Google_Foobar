@@ -1,5 +1,6 @@
 # Google_Foobar
- Some of my Google Foobar solutions
+Some of my Google Foobar solutions
+
 Level 1
 
 Level 2
@@ -10,5 +11,5 @@ Challenge 1
 
 Challenge 2
 ![Zrzut ekranu (1279)](https://user-images.githubusercontent.com/72949223/162853596-25365f98-8e20-4abf-bc73-3677160b019a.png)
-![2](https://user-images.githubusercontent.com/72949223/162854098-d5de93f7-9d2c-41b7-9c46-d35c9f8a564a.png)
+![2](https://user-images.githubusercontent.com/72949223/162854578-e79ba588-0b78-48a0-9422-213b230f8217.png)
 
