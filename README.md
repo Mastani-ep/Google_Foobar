@@ -10,4 +10,5 @@ Challenge 1
 
 Challenge 2
 ![Zrzut ekranu (1279)](https://user-images.githubusercontent.com/72949223/162853596-25365f98-8e20-4abf-bc73-3677160b019a.png)
-![Zrzut ekranu (1282)](https://user-images.githubusercontent.com/72949223/162853670-1d719323-a87f-42cd-a8e7-2c747b00f58c.png)
+![2](https://user-images.githubusercontent.com/72949223/162854098-d5de93f7-9d2c-41b7-9c46-d35c9f8a564a.png)
+
